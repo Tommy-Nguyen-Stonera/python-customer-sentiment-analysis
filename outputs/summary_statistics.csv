@@ -1,0 +1,12 @@
+Metric,Value
+Total Reviews,8199.0
+Reviews With Text,7221.0
+Unique Products,944.0
+Unique Manufacturers,20.0
+Average Rating,4.41
+Median Rating,5.0
+Positive Reviews (4-5),7012.0
+Negative Reviews (1-2),813.0
+VADER Positive Sentiment %,87.4
+VADER-Rating Correlation,0.681
+Price-Rating Correlation,-0.015
