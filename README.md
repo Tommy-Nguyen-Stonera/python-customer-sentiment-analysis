@@ -1,5 +1,7 @@
 # Customer Experience & Sentiment Analysis - Home Improvement Products
 
+[View Interactive Report](https://htmlpreview.github.io/?https://github.com/Tommy-Nguyen-Stonera/python-customer-sentiment-analysis/blob/main/report.html)
+
 ## Problem Statement
 
 I wanted to understand what makes customers happy or unhappy when buying home improvement products. With thousands of real reviews from Home Depot, I built a sentiment analysis pipeline to go beyond simple star ratings and dig into the language customers actually use. The goal was to uncover patterns that a business could act on, such as which product categories struggle the most, what complaints come up repeatedly, and whether the text of a review actually matches the star rating given.
